@@ -14,9 +14,9 @@
 
 | Job ID | Weight Decay | Run Name | 状态 |
 |--------|-------------|----------|------|
-| j-duz9febbgi | 0.0 | grok_single_wd_0.0 | 运行中 |
-| j-gfca57nroc | 0.1 | grok_single_wd_0.1 | 运行中 |
-| j-06191l4hqc | 0.2 | grok_single_wd_0.2 | 运行中 |
+| j-umaw6bdwja | 0.0 | grok_single_wd_0.0 | 运行中 |
+| j-ao19tvz5od | 0.1 | grok_single_wd_0.1 | 运行中 |
+| j-0cb56pyo1g | 0.2 | grok_single_wd_0.2 | 运行中 |
 
 ## WandB
 - Project: grokking-wd-experiment
@@ -35,7 +35,7 @@
 ## 集群信息
 - 集群: PA (cls-7m5h2iul6q)
 - 队列: minimax-dialogue-tide
-- 镜像: harbor.xaminim.com/minimax-dialogue/nanochat-grokking:v1
+- 镜像: harbor.xaminim.com/minimax-dialogue/nanochat-grokking:v2
 
 ## 历史实验 (v1 - 已废弃)
 | Job ID | Weight Decay | 状态 |
